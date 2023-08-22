@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Junang-Wang
+- 👋 Hi, I’m @JunAng-Wang
 - 👀 I’m interested in machine learing and quantum computing.
 - 🌱 I’m currently learning machine learning courses.
 - 💞️ I’m looking to collaborate on machine learing and quantum computing project.
